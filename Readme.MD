@@ -9,15 +9,15 @@ ResearchMind is a multi-agent AI system that turns any topic into a sourced rese
 <table>
   <tr>
     <td align="center"><b>1. Home screen</b><br><img src="Output%20SS/1.png" width="450"></td>
-    <td align="center"><b>2. Pipeline running</b><br><img src="Output%20SS/2.png" width="450"></td>
+    <td align="center"><b>2. Report</b><br><img src="Output%20SS/2.png" width="450"></td>
   </tr>
   <tr>
-    <td align="center"><b>3. Search results</b><br><img src="Output%20SS/3.png" width="450"></td>
-    <td align="center"><b>4. Scraped content</b><br><img src="Output%20SS/4.png" width="450"></td>
+    <td align="center"><b>3. Critic Feedback</b><br><img src="Output%20SS/3.png" width="450"></td>
+    <td align="center"><b>4. Search Results</b><br><img src="Output%20SS/4.png" width="450"></td>
   </tr>
   <tr>
-    <td align="center"><b>5. Final report</b><br><img src="Output%20SS/5.png" width="450"></td>
-    <td align="center"><b>6. Critic feedback and score</b><br><img src="Output%20SS/6.png" width="450"></td>
+    <td align="center"><b>5. Scraped Content</b><br><img src="Output%20SS/5.png" width="450"></td>
+    <td align="center"><b>6. Sources</b><br><img src="Output%20SS/6.png" width="450"></td>
   </tr>
 </table>
 
