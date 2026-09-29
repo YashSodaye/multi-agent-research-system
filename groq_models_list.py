@@ -11,3 +11,4 @@ print(r.status_code)
 print("Free models to use: ")
 for m in r.json().get("data", []):
     print(m["id"])
+    

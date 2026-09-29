@@ -47,3 +47,4 @@ def scrape_url(url: str) -> str:
         return f"Source: {url}\n\n{text[:3000]}"
     except Exception as e:
         return f"Could not scrape URL: {str(e)}"
+    
