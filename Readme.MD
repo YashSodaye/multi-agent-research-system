@@ -181,3 +181,5 @@ Copy a model ID from the output into `agents.py`. Pick one that supports **tool 
 | Reader agent returns nothing | The search step found no URLs, or the site blocks scrapers. Try another topic or increase the number of URLs scraped. |
 | Empty report | Usually a model or token-limit issue. Reduce `SCRAPE_CHARS` or switch models. |
 | Scraper fails on some sites | Some sites (news, paywalled) block plain HTTP requests or need JavaScript. This is expected. |
+
+
